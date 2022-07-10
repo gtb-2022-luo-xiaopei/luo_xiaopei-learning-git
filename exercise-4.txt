@@ -3,5 +3,3 @@ create a new file.
 A
 
 B
-
-C
